@@ -1,5 +1,5 @@
 import urllib.parse
-import requests
+import requests 
 
 number = input("Enter Number":)  # Replace with the actual mobile number
 message = input("Enter Massage")# Replace with the actual message
